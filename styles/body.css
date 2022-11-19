@@ -1,0 +1,100 @@
+.left-section{
+  margin-top: 9em;
+  margin-left: 4em;
+}
+
+.heading-section{
+  line-height: 1.5em;
+}
+
+.heading{
+  font-weight: bold;
+  line-height: 1.2em;
+}
+
+.heading-para{
+  font-size: large;
+  margin-top: 2em;
+}
+
+
+.email-bar{
+  border: .1em solid grey;
+  border-radius: .5em;
+  width: 18em;
+  padding: .6em;
+  font-size: 1.1em;
+}
+
+.tryfor-button{
+  border-radius: .5em;
+  padding: .6em;
+  width: 10em;
+  font-size: 1.1em;
+  border: none;
+  background-color: #008060;
+  font-weight: bold;
+  margin-top: .7em;
+}
+
+.tryfor-button:hover{
+  cursor: pointer;
+  background-color: #004c3f;
+}
+
+.heading1{
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 2.5em;
+  font-weight: 500;
+}
+
+.background-green{
+  background-color: #004c3f;
+}
+
+.section-head2{
+  margin-top: 7rem;
+  margin-bottom: 5em;
+}
+
+.section-three{
+  padding-bottom: 6em;
+}
+
+.para-last{
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 1.2em;
+  margin-top: 1em;
+  color: rgb(110, 106, 106);
+}
+
+.heading-last{
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 500;
+}
+
+.market-section{
+  margin-top: 10em;
+  padding-left: 3em;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.market-para{
+  line-height: 1.6em;
+  color: rgb(104, 101, 101);
+}
+
+ul{
+  color:rgb(209, 206, 206);
+}
+
+.footer{
+  background-color: #004c3f;
+}
+.icons{
+  margin-right: 1em;
+}
+
+.footer-term{
+  margin-right: 2em;
+}
